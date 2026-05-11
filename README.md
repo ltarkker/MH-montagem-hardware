@@ -3,7 +3,7 @@
 **Curso:** CTeSP em Redes e Sistemas Informáticos  
 **Instituição:** Instituto Superior de Tecnologias Avançadas — ISTEC Porto  
 **Ano Letivo:** 2023/2024 · 1º Ano · 1º Semestre  
-**Nota Final:** 16 valores
+**Nota Final:** 16 valores ✅
 
 ---
 
